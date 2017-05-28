@@ -1,0 +1,29 @@
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe.config
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Form1.resources
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Properties.Resources.resources
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe.config
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Form1.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Properties.Resources.resources
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csproj.GenerateResource.Cache
+C:\Users\ZW\Desktop\Dersler\2. Dönem\Yapay Zeka\FirmaBasariTahmini\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csproj.ResolveComReference.cache
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe.config
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csproj.ResolveComReference.cache
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.exe
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\bin\Debug\FirmaBasariTahmini.pdb
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csprojResolveAssemblyReference.cache
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Form1.resources
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.Properties.Resources.resources
+C:\Users\ZW\Desktop\MAİL İLE GÖNDERİLECEK -----2016 Bahar Dönemi Yapay Zeka Final Raporu ve Program\FirmaBasariTahmini - dinamik\FirmaBasariTahmini\obj\Debug\FirmaBasariTahmini.csproj.GenerateResource.Cache
